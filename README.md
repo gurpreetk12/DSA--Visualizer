@@ -1,1 +1,1 @@
-# DSA--Visualizer
+# DSA-Visualizer
